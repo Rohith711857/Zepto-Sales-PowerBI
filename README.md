@@ -34,7 +34,7 @@ This project analyzes sales data from a fast-paced grocery delivery service. The
 
 ## File Structure
 ```plaintext
-zepto-sales-analysis/
+Zepto-Sales-PowerBI/
 ├── Zepto Sales Analysis.pbix       # Power BI file containing the dashboard
 ├── Dashboard Preview.png           # Snapshot of the dashboard
 ├── README.md                       # Project overview
